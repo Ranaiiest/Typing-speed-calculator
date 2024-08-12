@@ -3,6 +3,7 @@
 
 <h3>Extension Description</h3>
 - Wanna know your typing speed ?
+<br>
 if yes, then you must install this amazing typing-speed-calculator extension in your browser.
 
 
