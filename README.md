@@ -7,6 +7,9 @@
 if yes, then you must install this amazing typing-speed-calculator extension in your browser.
 
 
+### Image 
+![Screenshot 2024-09-08 224347](https://github.com/user-attachments/assets/6204fa6f-1bb4-4da5-b836-751cb0dc2fa6)
+
   <br><br>
 <h3>Installation Guide !</h3>
 
