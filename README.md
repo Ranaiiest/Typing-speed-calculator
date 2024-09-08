@@ -18,6 +18,6 @@ if yes, then you must install this amazing typing-speed-calculator extension in 
 - You can then turn off Developer Mode.
 - You are now good to go.
 
-  Thnaks ❤️
+  Thanks ❤️
 
 
